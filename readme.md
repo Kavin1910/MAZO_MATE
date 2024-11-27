@@ -38,8 +38,8 @@ pip install -r requirements.txt
 How to Use
 Clone the repository or download the files.
 
-Create a .env file and add your Gemini 
-
+Create a .env file and add your Gemini API Key
+```plaintext
 GEMINI_API_KEY="your_actual_api_key"
 
 Run the Streamlit app:
