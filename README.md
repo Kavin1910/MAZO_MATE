@@ -28,12 +28,12 @@ To run the project locally, ensure you have the following dependencies:
 - google-generativeai
 - python-dotenv
 
-### Install dependencies:
+### Install dependencies
 
 You can install all dependencies by running:
-   ```plaintext
-pip install -r requirements.txt
 
+```bash
+pip install -r requirements.txt
 
 ## How to Use
 
