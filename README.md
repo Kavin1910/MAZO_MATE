@@ -38,12 +38,12 @@ pip install -r requirements.txt
 
 1. **Clone the repository** or download the files.
 2. **Create a `.env` file** and add your Gemini API key:
-```plaintext
-GEMINI_API_KEY="your_actual_api_key"
+   ```plaintext
+               GEMINI_API_KEY="your_actual_api_key"
    
 3. Run the Streamlit app:
 ```bash
-streamlit run app.py
+   streamlit run app.py
 
 4. Enter the desired configuration (domain, experience level, and complexity) in the sidebar.
 5. Click "Generate Questions" to generate a set of interview questions and answers.
