@@ -31,7 +31,7 @@ To run the project locally, ensure you have the following dependencies:
 ### Install dependencies:
 
 You can install all dependencies by running:
-
+   ```plaintext
 pip install -r requirements.txt
 
 
