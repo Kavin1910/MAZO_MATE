@@ -31,14 +31,17 @@ To run the project locally, ensure you have the following dependencies:
 ### Install dependencies
 
 You can install all dependencies by running:
-
 ```bash
 pip install -r requirements.txt
+
+
 
 How to Use
 Clone the repository or download the files.
 
 Create a .env file and add your Gemini API Key
+
+
 ```plaintext
 GEMINI_API_KEY="your_actual_api_key"
 
