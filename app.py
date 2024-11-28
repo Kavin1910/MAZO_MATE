@@ -101,7 +101,7 @@ def main():
             }
         </style>
         <div class="center-image">
-            <img src="https://mazobeam.com/wp-content/uploads/2023/12/mazoid-1.png" alt="MazoBot Logo" width="200"/>
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQE1Xps1egDexw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715685813221?e=1738195200&v=beta&t=_0SIuAisTsdYNQmjdf3MpKJdsgsxIVlS8968G77xWFY" alt="MazoBot Logo" width="200"/>
         </div>
     """, unsafe_allow_html=True)
 
